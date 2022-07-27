@@ -1,6 +1,6 @@
 <div align="center">
 
-## ✨✨
+## ✨HS✨
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10days96&theme=gruvbox&layout=compact&langs_count=10"/>
     
@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-</div>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=10days96)](https://solved.ac/10days96)
+
+</div>
