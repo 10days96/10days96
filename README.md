@@ -13,6 +13,6 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=10days96)](https://solved.ac/10days96)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dora111)](https://solved.ac/dora111)
 
 </div>
