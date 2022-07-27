@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hyunsoo%20Lee&fontSize=90)
 
-<center><img src=https://user-images.githubusercontent.com/19252513/180958016-092b6a37-582a-44bd-abef-09565a139b7a.jpg width="60%" height="60%" />
-</center>
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10days96&theme=gruvbox&layout=compact&langs_count=10"/>
 
 ### <center> 🔑 Tech Stack 🔑 </center>
